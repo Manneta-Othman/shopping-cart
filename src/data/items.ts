@@ -1,4 +1,4 @@
-[
+const storeItems = [
     {
         "id": 1,
         "name": "Laptop",
@@ -30,3 +30,5 @@
         "imgUrl": "/imgs/s-watch.jpg"
     }
 ]
+
+export default storeItems
